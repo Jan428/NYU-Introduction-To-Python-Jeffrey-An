@@ -1,4 +1,4 @@
-rain = input("Is it raining? Yes or No\n")
+rain = input("Is it raining? Yes or No? \n")
 
 if rain == 'yes' or 'Yes':
     print('You need an umbrella!')
